@@ -1,0 +1,20 @@
+AWS Sysops: Monitoring, Metrics & CloudWatch Basics: designing metrics, setting up dashboards, metric filters
+AWS Sysops: Alarms, Notifications & EventBridge: configuring alarms, SNS/SQS integration, event rules
+AWS Sysops: Log Aggregation & Analysis: CloudWatch Logs, Insights, CloudTrail, log export
+AWS Sysops: Automated Remediation & Runbooks: Systems Manager Automation, Lambda, EventBridge actions
+AWS Sysops: Performance Optimization: tuning compute, storage, database for throughput and latency
+AWS Sysops: Cost Optimization Strategies: rightsizing, savings plans, cost & usage reports
+AWS Sysops: High Availability & Fault Tolerance: multi-AZ, multi-Region, ELB, health checks
+AWS Sysops: Scaling & Elasticity: Auto Scaling (EC2, ASG), scaling policies, caching (ElastiCache)
+AWS Sysops: Backup, Restore & Disaster Recovery: snapshot strategies, cross-Region backups, RTO/RPO
+AWS Sysops: Infrastructure as Code (IaC): CloudFormation, CDK, declarative templates
+AWS Sysops: Deployment Strategies & Lifecycle Management: blue/green, rolling updates, canary releases
+AWS Sysops: Multi-Account & Multi-Region Architectures: Organizations, StackSets, resource sharing
+AWS Sysops: Configuration Management & State Drift: Systems Manager, OpsCenter, drift detection
+AWS Sysops: Containers & Orchestration: EKS/ECS, container networking, cluster operations
+AWS Sysops: Identity, Access & IAM: users, roles, policies, least privilege, access analyzer
+AWS Sysops: Data Protection & Encryption: KMS, ACM, encryption in transit & at rest
+AWS Sysops: Auditing, Compliance & Governance: CloudTrail, Config, Security Hub, GuardDuty
+AWS Sysops: Network Design & Connectivity: VPCs, subnets, routing, NAT, VPN, Transit Gateway
+AWS Sysops: Content Delivery & DNS: CloudFront, Global Accelerator, Route 53 routing policies
+AWS Sysops: Troubleshooting & Operational Recovery: diagnosing failures, VPC flow logs, root cause analysis
